@@ -1,10 +1,10 @@
 # Perl-Scripts
 Perl Scripts of interest and for security labs. (may become private)
 # Roman Nameral
-RomanNameral - a game designed script ran to entertain users. Ever wanted to know how much a name REALLY weighes? 
-Find out NOW with RomanNameral3. Play using any username, real name, pet name etc.. to see its 'weight'.
+RomanNameral - A coded and designed script to decipher Namerals. Namerals are Names with Roman Numerals in them, and are everywhere. Since Roman Numberals have a value, a Name has a value. Ever wanted to know how much a name REALLY weighes? 
+Find out NOW with RomanNameral.js and RomanNumberal2.js.
 
-# Games
+# Definitions
 'weight' equals a force of attraction on an object, i.e a name. Or maybe not?
 
 'weight' equals a foresight of attraction on respect gained, i.e from a name.
@@ -27,6 +27,15 @@ RomanNameral's "Name Weight Game" is a New, Classic, Family Friendly, fun Holida
 
 pending patent ID
 e913d5c6af0cd45f5f6ac8d761844f24155c4398
+
+# Games
+How much does a name weigh?
+-does one name weigh more than another?
+-who name weighs the most?
+
+What is Roman Numeral 'n' value?
+-what is n + n?
+
 
 
 # User Guide
@@ -82,6 +91,38 @@ domhnall
 
 
 Enter a name to see its weight:
+
+
+# Questions&Answers
+-Q My Nameral weighs 0, why?
+--A The Nameral isn't Roman. Have you tried RomanNameral 2?
+
+-Q This game is stupid, why did you make it?
+--A Creativiy and code will always make sense. See other projects: @ <a href="google.com">Google</a>
+
+-Q I really like this idea, can I use it to teach children?
+--A Yes. They can learn addition, multiplication and how to read Roman Numerals.
+
+-Q Why did you call this Roman Nameral?
+--A It does have a nice ring to it, doesn't it? You can't have Numerals and not Namerals.
+
+-Q I think its broken, how do I fix it? It doesn't work on my device, why?
+--A Open a pull request at https://github.com/FIOpwK/Perl-Scripts, will patch or questions. Reload the page.
+
+-Q How did you come up with this idea?
+--A It was either do the math by hand, or automate the task. You're welcome.
+
+-Q I can't find it on the GooglePlay/AppleGames, why?
+--A Good question. I'll work on that. 
+
+-Q Can I help you make money with RomanNameral?
+--A How should I know? This is Source Based Sharing, information wants to be FREE. Contact me about it!
+
+-Q Do you work for RomanNameral?
+--A If working on a project makes me an employee, I'd still have to sign my own checks.
+
+-Q Are you hiring?
+--A I'm looking work myself. Will you work for Credz?
 
 
 # Note:
