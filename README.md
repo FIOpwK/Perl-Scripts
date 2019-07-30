@@ -1,7 +1,7 @@
 # Perl-Scripts
 Perl Scripts of interest and for security labs. (may become private)
 # Roman Nameral
-RomanNameral - A coded and designed script to decipher Namerals. Namerals are Names with Roman Numerals in them, and are everywhere. Since Roman Numberals have a value, a Name has a value. Ever wanted to know how much a name REALLY weighes? 
+RomanNameral - A coded and designed script to decipher Namerals. Namerals are Names with Roman Numerals in them, and are everywhere. Since Roman Numerals have a value, a Name has a value. Ever wanted to know how much a name REALLY weighes? 
 Find out NOW with RomanNameral.js and RomanNumberal2.js.
 
 # Definitions
