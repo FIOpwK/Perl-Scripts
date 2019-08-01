@@ -98,7 +98,7 @@ Enter a name to see its weight:
 --A The Nameral isn't Roman. Have you tried RomanNameral 2?
 
 -Q This game is stupid, why did you make it?
---A Creativiy and code will always make sense. See other projects: @ <a href="google.com">Google</a>
+--A Creativity and code will always make sense. See other projects: @ <a href="google.com">Google</a>
 
 -Q I really like this idea, can I use it to teach children?
 --A Yes. They can learn addition, multiplication and how to read Roman Numerals.
